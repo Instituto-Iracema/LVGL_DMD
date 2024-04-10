@@ -1,0 +1,14 @@
+{
+    "name": "LVGL_DMD",
+    "version": "0.0.1",
+    "keywords": "graphics, gui, embedded, tft, lvgl, dmd, display, driver",
+    "description": "LVGL display driver for the Freetronics DMD display",
+    "dependencies": {
+        "lvgl/lvgl": "^9.1.0"
+    },
+    	"build": {
+		"includeDir": "."
+	},
+	"frameworks": "*",
+	"platforms": "*"
+}
